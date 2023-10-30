@@ -1,5 +1,5 @@
 /*
-Name: MATHEWS, Noel
+By: mathewn24
 */
 
 #include <iostream>
